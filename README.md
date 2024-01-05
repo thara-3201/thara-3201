@@ -1,7 +1,5 @@
 - 👋 Hi, I’m thara
 - 👀 I’m interested in frontend dev & UX
-- 🌱 I’m currently learning dApps using motoku
-- 💞️ I’m looking to collaborate on the above
 - 📫 How to reach me through linkedin - https://www.linkedin.com/in/tharapearlly/
 
 <!---
